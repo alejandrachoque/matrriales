@@ -1,0 +1,85 @@
+El usuario hizo una petición con método : GET 
+    e ingresó a la ruta: /El usuario hizo una petición con método : GET 
+    e ingresó a la ruta: /usuariosEl usuario hizo una petición con método : GET e ingresó a la ruta: /El usuario hizo una petición con método : GET e ingresó a la ruta: /usuariosEl usuario hizo una petición con método : GET e ingresó a la ruta: /El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /usuarios
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Lionel
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=vim
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Vim
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Greta
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /favicon.ico
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=Ada
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=flor
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /admin?user=
+    

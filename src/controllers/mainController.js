@@ -1,0 +1,11 @@
+const controller= {
+    index:(req,res)=>{
+        res.render('index')
+    },
+    users:(req,res)=>{
+        res.send('Usuarios registrados')
+    }
+}
+
+
+module.exports= controller;
