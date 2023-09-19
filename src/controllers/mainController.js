@@ -4,6 +4,12 @@ const controller= {
     },
     users:(req,res)=>{
         res.send('Usuarios registrados')
+    },
+
+
+    //tp de cookies
+    formulario:(req,res)=>{
+        res.render('formulario')
     }
 }
 

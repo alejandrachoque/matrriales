@@ -82,4 +82,12 @@ El usuario hizo una petición con método : GET
     ingresó a la ruta: /
     El usuario hizo una petición con método : GET e 
     ingresó a la ruta: /admin?user=
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /preferencias
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /formulario
+    El usuario hizo una petición con método : GET e 
+    ingresó a la ruta: /
     

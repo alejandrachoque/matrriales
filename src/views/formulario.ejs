@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/preferencias" method="post">
+        <label for="nombre">Ingrese su nombre </label>
+        <input type="text" id="nombre" name="nombre" required>
+        <label for="color">Color favorito</label>
+            <select name="color" required>
+                <option value="verde">Verde</option>
+                <option>Azul</option>
+                <option>Rosa</option>
+                <option>Amarillo</option>
+
+            </select>
+        <label for="email">Ingrese su email</label>
+        <input type="email" id="email" name="email" required>
+        <label for="edad">Ingrese su edad</label>
+        <input type="text" id="edad" name="edad">
+        <button type="submit">Enviar</button>
+        
+    </form>
+</body>
+</html>

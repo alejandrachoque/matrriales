@@ -27,7 +27,7 @@ const mainRouter = require('./routes/main');
 const adminRouter=require('./routes/admin');
 app.use('/', mainRouter);
 app.use('/admin',adminRouter)
-
+app.use('/formulario',mainRouter)
 
 // ************ DON'T TOUCH FROM HERE ************
 // ************ catch 404 and forward to error handler ************
